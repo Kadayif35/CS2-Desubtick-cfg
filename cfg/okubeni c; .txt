@@ -1,6 +1,0 @@
-CS2 başlatma seçeneklerine -exec autoexec.cfg yazmalısınız. (her girdiğinizde otomatik ayarları yapması için)
-
-
-Dosyaları: Steam\steamapps\common\Counter-Strike Global Offensive\ klasörünün içine atıcaksınız 
-
-
