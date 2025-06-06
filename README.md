@@ -2,7 +2,7 @@ CS2 başlatma seçeneklerine -exec autoexec.cfg yazmalısınız. (her girdiğini
 
 cfg nin içinde game yazan klasörü Cs2 nin yerel dosyalarına atıcaksınız
 
-NOT: Zıplama tuşu mouse tekerleği aşşağıdır yukarıyada atamak isterseniz komut "bind mwheelup "+jump_"
+NOT: Zıplama tuşu mouse tekerleği aşağıdır yukarıyada atamak isterseniz komut "bind mwheelup "+jump_"
 
 
 NOT2: jumpbug bindi atamak için konsola "bind tuş "+jb"
