@@ -9,3 +9,9 @@ NOT: jumpbug bindi atamak için konsola "bind tuş "+jb"
 NOT2: longbug bindi atamak için konsola "bind tuş "+lj"
 
 discord.gg/edgebug
+
+
+<a href="https://www.youtube.com/watch?v=NeUxi253SiY" target="_blank">
+  <img src="https://img.youtube.com/vi/NeUxi253SiY/0.jpg" alt="Watch the video" width="600"/>
+</a>
+
