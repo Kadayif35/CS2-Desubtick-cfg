@@ -6,7 +6,7 @@ cfg nin içinde game yazan klasörü Cs2 nin yerel dosyalarına atıcaksınız
 NOT: jumpbug bindi atamak için konsola "bind tuş "+jb"
 
 
-NOT2: longbug bindi atamak için konsola "bind tuş "+lj"
+NOT2: longjump bindi atamak için konsola "bind tuş "+lj"
 
 discord.gg/edgebug
 
